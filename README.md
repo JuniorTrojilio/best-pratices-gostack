@@ -2,7 +2,7 @@
 	<img src="https://user-images.githubusercontent.com/39541807/81132560-3a20a000-8f25-11ea-8179-4f4540936787.png">
 	<h1> Best Pratices and Patterns with TS and NodeJS</h1>
 </div>
-<p align="center">In this module we learn the Best pratices and patterns concepts with TS and NodeJS.</p>
+<p align="center">In this module we learn the best pratices and patterns concepts with TS and NodeJS.</p>
 <div display="inline" align="center">
 <img src="https://img.shields.io/github/license/juniortrojilio/concept-typescript-gostack?style=flat-square">
 </div>
