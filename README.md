@@ -264,4 +264,4 @@ class SendMail {
 }
 ```
 ---
-<p align="center> < > with 💙 by <a href="https://github.com/juniortrojilio">Junior Trojilio</a></p>
+<p align="center"> < > with 💙 by <a href="https://github.com/juniortrojilio">Junior Trojilio</a></p>
