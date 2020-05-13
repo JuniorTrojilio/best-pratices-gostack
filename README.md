@@ -6,6 +6,9 @@
 <div display="inline" align="center">
 <img src="https://img.shields.io/github/license/juniortrojilio/concept-typescript-gostack?style=flat-square">
 </div>
+
+---
+
 # Best Pratices and Patterns
 
 ## Repository
